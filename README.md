@@ -11,4 +11,6 @@ This Code is a PyTorch implementation for Our Paper "Lightweight Single Image Su
 - matplotlib
 - tqdm
 
-Our code is based on RCAN.
+Our code is based on [RCAN](https://github.com/yulunzhang/RCAN).
+About how to calculate Mult-Adds, you can check the [torchsummaryX](https://github.com/nmhkahn/torchsummaryX).
+
